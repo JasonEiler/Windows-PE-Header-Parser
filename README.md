@@ -18,4 +18,4 @@ This project is a simple C program that analyzes Windows Portable Executable (PE
 
 ### 🖼️ Screenshot
 Below is a sample output when parsing `notepad.exe`:
-![PE Header Parser Output](![image](https://github.com/user-attachments/assets/27a1b083-f97f-4dd0-8e2b-604b83aaa93f)
+![PE Header Parser Output](![image](https://github.com/user-attachments/assets/27a1b083-f97f-4dd0-8e2b-604b83aaa93f
