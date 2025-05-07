@@ -1,5 +1,3 @@
-# Windows-PE-Header-Parser
-
 # 📦 Windows-PE-Header-Parser
 
 A simple C program that parses and prints basic information from a Windows Portable Executable (PE) file such as `notepad.exe`. It inspects the DOS and NT headers to reveal useful metadata like the magic bytes, NT header offset, number of sections, and the entry point address.
